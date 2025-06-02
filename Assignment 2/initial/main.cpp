@@ -8,6 +8,13 @@
 
 //The library here is concretely set, students are not allowed to include any other libraries.
 
+/*
+Task1: 3.1 3.2 3.3 3.6
+Task2: 3.4 3.5
+Task3: 3.7 3.8 3.9
+Task4: 3.10
+*/
+
 #include "hcmcampaign.h"
 
 using namespace std;

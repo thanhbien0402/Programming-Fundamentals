@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bienc/Downloads/inital",
-      "program": "c:/Users/bienc/Downloads/inital/build/Debug/outDebug",
+      "cwd": "d:/Programming Fundamentals/Programming-Fundamentals/Assignment 2/inital",
+      "program": "d:/Programming Fundamentals/Programming-Fundamentals/Assignment 2/inital/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
